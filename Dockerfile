@@ -1,6 +1,6 @@
 FROM ghcr.io/komari-monitor/komari:latest
 
-ARG KOMARI_SOURCE_REPOSITORY="hynize/komari"
+ARG KOMARI_SOURCE_REPOSITORY="jyucoeng/komari"
 ARG KOMARI_SOURCE_BRANCH="main"
 ARG CADDY_VERSION="2.9.1"
 ARG TARGETARCH
